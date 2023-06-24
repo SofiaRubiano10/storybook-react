@@ -1,3 +1,14 @@
 import Boton from "./Boton";
 export default { component: Boton };
-export const Basic = {};
+
+//Storys
+export const Basic = {
+  args: {
+    label: "Basic",
+  },
+};
+export const Advance = {
+  args: {
+    label: "Avanzado",
+  },
+};

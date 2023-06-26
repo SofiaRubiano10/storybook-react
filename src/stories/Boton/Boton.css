@@ -1,0 +1,16 @@
+.btn {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 0;
+  font-weight: 600;
+  padding: 0.8rem 1.5rem;
+  border-radius: 99999px;
+  cursor: pointer;
+  color: #fff;
+}
+.btn-primary {
+  background-color: #019cfd;
+}
+.btn-secondary {
+  background-color: #171c23;
+  border: 1px solid #fff;
+}

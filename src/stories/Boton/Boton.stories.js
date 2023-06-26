@@ -2,13 +2,15 @@ import Boton from "./Boton";
 export default { component: Boton };
 
 //Storys
-export const Basic = {
+export const Primary = {
   args: {
-    label: "Basic",
+    label: "Primary",
+    primary: true,
   },
 };
-export const Advance = {
+export const Secondary = {
   args: {
-    label: "Avanzado",
+    label: "Secondary",
+    primary: false,
   },
 };

@@ -1,5 +1,6 @@
 import Boton from "./Boton";
-export default { component: Boton };
+
+export default { component: Boton, title: "Atoms/Boton" };
 
 //Storys
 export const Primary = {

@@ -2,6 +2,7 @@ import Titulo from "./Titulo";
 
 export default {
   component: Titulo,
+  title: "Atoms/Titulo",
   argTypes: {
     nivel: {
       // select, radio, inline-radio

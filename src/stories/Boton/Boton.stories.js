@@ -1,6 +1,6 @@
 import Boton from "./Boton";
 
-export default { component: Boton, title: "Atoms/Boton" };
+export default { component: Boton, title: "Atoms/Boton", tags: ["autodocs"] };
 
 //Storys
 export const Primary = {
